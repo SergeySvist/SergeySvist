@@ -44,3 +44,5 @@ I am Back-end Web Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5M
 
 - :briefcase: I'm developing a back-end web application, but I can also develop a front-end :wink:
 - :memo: Travelling the world of technical writing: [![Twitter Badge](https://img.shields.io/badge/-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Sergey_Svist)
+- :zap: In my free time, read books, technical articles and develop my soft skills.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergeysvist-3a21b4232/)

@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
+
+I am Back-end Web Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZkYWQ0Y2YzOGVjNDlmZWEwMTZjNGRiNGRjM2Y4MTRhNjQ5NzM2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from Ukraine :blue_heart::yellow_heart:

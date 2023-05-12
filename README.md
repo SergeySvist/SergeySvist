@@ -32,4 +32,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/8X0bEJWj8VcfA6T8iJ/giphy.gif" width="50px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNjc3OTU5N2E3MTI1NWY1ZjZmNTVjNzM2NTBhZTI0M2IxMGFlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
 

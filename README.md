@@ -35,5 +35,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAzZDM0OTY5MzJkNWFjZDQ2ZDQ4NTNiNjk0YWJjYzE1MzM5ZGJlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/FPbnShq1h1IS5FQyPD/giphy.gif" width="400" height="200"/>
 </div>
+
 ---
+
 ### :man_technologist: About Me :

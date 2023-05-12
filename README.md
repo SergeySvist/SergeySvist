@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/UDclWKlmfmq7twI3iJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/StellarGenetic-bird-owl-white-faced-scops-UDclWKlmfmq7twI3iJ">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/UDclWKlmfmq7twI3iJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>

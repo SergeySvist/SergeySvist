@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=SergeySvist&style=flat-square&color=blue" alt=""/>
   <h1>
   Hello everyone
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFjNGZmYTI2NGI3NmU0ZGMxMTRkZjZmZWUzYjFjZTc1YTg0ZTg2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H5OcJyyzY25aqofOiS/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/8X0bEJWj8VcfA6T8iJ/giphy.gif" width="50px"/>
 </h1>
 </div>
 

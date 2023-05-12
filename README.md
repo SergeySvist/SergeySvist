@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 I am Back-end Web Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZkYWQ0Y2YzOGVjNDlmZWEwMTZjNGRiNGRjM2Y4MTRhNjQ5NzM2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from Ukraine :blue_heart::yellow_heart:.
 
 - :briefcase: I'm developing a back-end web application, but I can also develop a front-end :wink:
-- :memo: Travelling the world of technical writing: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Sergey_Svist)
+- :memo: Travelling the world of technical writing: [![Twitter Badge](https://img.shields.io/badge/?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Sergey_Svist)

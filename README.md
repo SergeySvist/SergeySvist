@@ -47,7 +47,7 @@ I am Back-end Web Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5M
 - :zap: In my free time, read books and technical articles, watch movies, play games and develop my soft skills.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergeysvist-3a21b4232/)
 
-
+[![Spotify](https://brdfynky2wdjp7lq1y3u8uom0.vercel.app/api/spotify)](https://open.spotify.com/user/brdfynky2wdjp7lq1y3u8uom0)
 
 ---
 
